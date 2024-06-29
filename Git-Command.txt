@@ -1,0 +1,11 @@
+git status -> 
+tells you which file is untracked (Red color) or which is in staged (Green Color)  
+
+git add . ->
+move untracked file to *staged* state.
+
+
+git commit -m "Message for new Commit"
+
+
+git push 
